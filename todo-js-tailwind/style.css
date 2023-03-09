@@ -1,0 +1,12 @@
+.resultList .list label.checked {
+    text-decoration: line-through;
+}
+
+.hide {
+    display: none !important;
+}
+
+.editTextBox {
+    width: 100%;
+    padding: 5px;
+}
